@@ -12,7 +12,7 @@
 
 Name:           %{pypi_name}
 Version:        0.11.0
-Release:        1%{?dist}
+Release:        1liu1%{?dist}
 Summary:        Python extension of the NEMEA project
 
 License:        BSD

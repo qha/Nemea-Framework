@@ -54,7 +54,7 @@ if test -z "$RPMBUILD"; then
 	AC_MSG_WARN([Due to missing rpmbuild you will not able to generate RPM package.])
 fi
 
-RPM_RELEASE=1
+RPM_RELEASE=1liu1
 AC_SUBST(RPM_RELEASE)
 AM_CONDITIONAL(MAKE_RPMS, test x$RPMBUILD != x)
 
